@@ -1,0 +1,1 @@
+pandas>=1.3.0\nnumpy>=1.21.0\nscikit-learn>=1.0.0\nxgboost>=1.5.0\njoblib>=1.0.0\nmatplotlib>=3.5.0\nseaborn>=0.11.0\nkaggle>=1.5.0

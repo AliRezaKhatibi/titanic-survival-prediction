@@ -1,0 +1,40 @@
+{
+  "timestamp": "20251016_134039",
+  "best_model": "Random Forest",
+  "models_saved": {
+    "Logistic Regression": {
+      "filename": "logistic_regression_20251016_134039.pkl",
+      "filepath": "saved_models/logistic_regression_20251016_134039.pkl",
+      "size_mb": 0.0,
+      "best_params": "N/A",
+      "cv_score": 0.8033290653008962
+    },
+    "Random Forest": {
+      "filename": "random_forest_20251016_134039.pkl",
+      "filepath": "saved_models/random_forest_20251016_134039.pkl",
+      "size_mb": 1.72,
+      "best_params": "N/A",
+      "cv_score": 0.8272628779671033
+    },
+    "SVM": {
+      "filename": "svm_20251016_134039.pkl",
+      "filepath": "saved_models/svm_20251016_134039.pkl",
+      "size_mb": 0.04,
+      "best_params": "N/A",
+      "cv_score": 0.8271939328277357
+    },
+    "XGBoost": {
+      "filename": "xgboost_20251016_134039.pkl",
+      "filepath": "saved_models/xgboost_20251016_134039.pkl",
+      "size_mb": 0.33,
+      "best_params": "N/A",
+      "cv_score": 0.8370530877573131
+    }
+  },
+  "environment": {
+    "python_version": "3.12.12 (main, Oct 10 2025, 08:52:57) [GCC 11.4.0]",
+    "scikit_learn_version": "1.6.1",
+    "xgboost_version": "N/A"
+  },
+  "best_model_path": "saved_models/best_model_Random Forest_20251016_134039.pkl"
+}
