@@ -3,9 +3,15 @@
 
 ---
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/titanic-survival-prediction.svg?style=social)]([[https://github.com/yourusername/titanic-survival-prediction](https://github.com/AliRezaKhatibi/titanic-survival-prediction.git)](https://github.com/AliRezaKhatibi/titanic-survival-prediction.git)) [![GitHub forks](https://img.shields.io/github/forks/yourusername/titanic-survival-prediction.svg?style=social)]([https://github.com/yourusername/titanic-survival-prediction](https://github.com/AliRezaKhatibi/titanic-survival-prediction.git)) [![License]([https://img.shields.io/github/license/alirezakhatibi/titanic-survival-prediction.svg](https://github.com/AliRezaKhatibi/titanic-survival-prediction.git))](LICENSE) [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![GitHub stars](https://img.shields.io/github/stars/AliRezaKhatibi/titanic-survival-prediction?style=social)](https://github.com/AliRezaKhatibi/titanic-survival-prediction)
+[![GitHub forks](https://img.shields.io/github/forks/AliRezaKhatibi/titanic-survival-prediction?style=social)](https://github.com/AliRezaKhatibi/titanic-survival-prediction/network/members)
+[![License](https://img.shields.io/github/license/AliRezaKhatibi/titanic-survival-prediction)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 ---
+
+
+
 
 ## 📖 **Project Overview**
 
