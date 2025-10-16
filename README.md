@@ -114,6 +114,7 @@ python run_pipeline.py
    ✅ Section 7: Predictions
    ✅ Section 8: Results
    ✅ Section 9: Conclusions
+   ✅ Section 10: Save Models
    ```
 
 ### **Make Predictions**
@@ -273,10 +274,9 @@ PassengerId,Survived
 
 ## 📫 **Contact**
 
-**👤 Author:** [Your Name]  
-**💼 LinkedIn:** [linkedin.com/in/yourprofile]  
-**🐦 Twitter:** [@yourhandle]  
-**📧 Email:** your.email@example.com
+**👤 Author:** [Alireza Khatibi]  
+**💼 LinkedIn:** [www.linkedin.com/in/alireza-khatibi78]    
+**📧 Email:** alireza12arkero@gmail.com
 
 **⭐ Star this repo if it helped you!**
 
