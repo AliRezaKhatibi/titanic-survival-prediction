@@ -1,5 +1,5 @@
 # 🚢 **Titanic Survival Prediction** 
-### *Machine Learning Pipeline with XGBoost & Random Forest & SVM Logistic & Regression *
+### *Machine Learning Pipeline with XGBoost & Random Forest & SVM & Logistic Regression *
 
 ---
 
