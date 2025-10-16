@@ -1,0 +1,32 @@
+{
+  "best_model": "Random Forest",
+  "f1_score": 0.7832,
+  "auc_score": 0.9033,
+  "accuracy": 0.8268,
+  "features": [
+    "Pclass",
+    "Sex",
+    "Age",
+    "SibSp",
+    "Parch",
+    "Fare",
+    "Embarked",
+    "Has_Cabin",
+    "FamilySize",
+    "IsAlone",
+    "FareBin",
+    "AgeBin"
+  ],
+  "n_features": 12,
+  "test_predictions": 140,
+  "test_survival_rate": 0.3349282296650718,
+  "submission_file": "titanic_submission.csv",
+  "n_test_samples": 418,
+  "top_features": [
+    "Sex",
+    "Fare",
+    "Age",
+    "Pclass",
+    "FamilySize"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "model_comparison": {
+    "Accuracy": {
+      "Logistic Regression": 0.8156,
+      "Random Forest": 0.8268,
+      "SVM": 0.8101,
+      "XGBoost": 0.7989
+    },
+    "Precision": {
+      "Logistic Regression": 0.7971,
+      "Random Forest": 0.8116,
+      "SVM": 0.7941,
+      "XGBoost": 0.7969
+    },
+    "Recall": {
+      "Logistic Regression": 0.7432,
+      "Random Forest": 0.7568,
+      "SVM": 0.7297,
+      "XGBoost": 0.6892
+    },
+    "F1 Score": {
+      "Logistic Regression": 0.7692,
+      "Random Forest": 0.7832,
+      "SVM": 0.7606,
+      "XGBoost": 0.7391
+    },
+    "AUC": {
+      "Logistic Regression": 0.897,
+      "Random Forest": 0.9033,
+      "SVM": 0.8638,
+      "XGBoost": 0.8943
+    },
+    "Composite Score": {
+      "Logistic Regression": 0.8169150000000001,
+      "Random Forest": 0.8280500000000001,
+      "SVM": 0.80159,
+      "XGBoost": 0.7980150000000001
+    }
+  },
+  "evaluation_results": {
+    "Logistic Regression": {
+      "Accuracy": 0.8156424581005587,
+      "Precision": 0.7971014492753623,
+      "Recall": 0.7432432432432432,
+      "F1 Score": 0.7692307692307693,
+      "AUC": 0.8970398970398971
+    },
+    "Random Forest": {
+      "Accuracy": 0.8268156424581006,
+      "Precision": 0.8115942028985508,
+      "Recall": 0.7567567567567568,
+      "F1 Score": 0.7832167832167832,
+      "AUC": 0.9033462033462034
+    },
+    "SVM": {
+      "Accuracy": 0.8100558659217877,
+      "Precision": 0.7941176470588235,
+      "Recall": 0.7297297297297297,
+      "F1 Score": 0.7605633802816901,
+      "AUC": 0.8638352638352639
+    },
+    "XGBoost": {
+      "Accuracy": 0.7988826815642458,
+      "Precision": 0.796875,
+      "Recall": 0.6891891891891891,
+      "F1 Score": 0.7391304347826086,
+      "AUC": 0.8942728442728443
+    }
+  },
+  "cv_results": {
+    "Logistic Regression": 0.8033290653008962,
+    "Random Forest": 0.8272628779671033,
+    "SVM": 0.8271939328277357,
+    "XGBoost": 0.8370530877573131
+  },
+  "best_model_metrics": {
+    "Accuracy": 0.8268,
+    "Precision": 0.8116,
+    "Recall": 0.7568,
+    "F1 Score": 0.7832,
+    "AUC": 0.9033,
+    "Composite Score": 0.8280500000000001
+  },
+  "submission_stats": {
+    "n_predictions": 418,
+    "n_survivors": 140,
+    "survival_rate": 0.3349282296650718
+  }
+}

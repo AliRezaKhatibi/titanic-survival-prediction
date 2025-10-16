@@ -1,0 +1,5 @@
+Model,CV Accuracy,Std Dev,Training Time (s),Params Tested
+Logistic Regression,0.8033,0.0317,2.7613,10
+Random Forest,0.8273,0.0168,64.0488,36
+SVM,0.8272,0.0196,7.8321,12
+XGBoost,0.8371,0.0198,13.2317,30
